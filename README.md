@@ -1,4 +1,4 @@
-# Home-Automation-1
+# Home Automation (using Blynk)
 I have made a WiFi controlled light and fan connection using nodemcu.
 
 ## Requirements: 
